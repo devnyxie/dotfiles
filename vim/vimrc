@@ -1,5 +1,5 @@
-let g:user42 = '42username'
-let g:mail42 = '42email'
+let g:user42 = 'username'
+let g:mail42 = 'email'
 
 set number
 
