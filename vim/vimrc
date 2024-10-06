@@ -1,0 +1,10 @@
+let g:user42 = 'tafanasi'
+let g:mail42 = 'tafanasi@student.42.fr'
+
+set number
+
+colorscheme codedark
+
+:set tabstop=4
+:set shiftwidth=4
+
