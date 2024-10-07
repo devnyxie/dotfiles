@@ -1,5 +1,7 @@
 # Personal Dotfiles
 
 ## Vim
-🔗 Script: [vim.sh](./vim/vim.sh)
+
+🔗 [Script](./vim/)
+
 <img src="./vim_preview.jpg">
